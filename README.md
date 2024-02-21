@@ -1,0 +1,1 @@
+# sistema_ecuaciones_gauss
